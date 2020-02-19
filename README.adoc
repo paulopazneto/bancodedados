@@ -53,10 +53,14 @@ link:images/thread-selectors.png[Imagem1]
 |Coluna A|Coluna B |Coluna C
 |===
 
-===Imagens
+=== Imagens
 
 .Evolução dos homens e dos computadores
 image:evolution-of-man-and-computer.jpg[link=http://google.com]
 :figure-caption: Figura
 
-===Fim
+=== Fim
+
+=== Video
+
+video::9Zb7LkRD-qA[youtube, whidth=640, height=480]
