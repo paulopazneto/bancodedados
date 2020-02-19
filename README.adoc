@@ -1,0 +1,50 @@
+:imagesdir: images
+:figure-caption: Figura
+
+= Curso AsciiDoc
+
+= =Lista não numerada
+
+- Item 1
+    * Subitem 1a
+- Item 2
+
+- Item 3
+
+Lista Numerada
+
+1. Item 1
+2. Item 2
+3. Item 3
+
+=== Links
+
+http://google.com
+
+http://google.com[Google]
+
+link:websocket.pptx[Apresentação Web Socket]
+
+link:images/thread-selectors.png[Imagem1]
+
+=== Itálico e Negrito
+
+*Negrito*
+
+*_Negrito e Itálico_*
+
+=== Tabela
+
+|===
+|Coluna A|Coluna B |Coluna C
+|Colu A|Coluna B |Coluna C
+|Coluna A|Coluna B |Coluna C
+|===
+
+===Imagens
+
+.Evolução dos homens e dos computadores
+image:evolution-of-man-and-computer.jpg[link=http://google.com]
+:figure-caption: Figura
+
+===Fim
