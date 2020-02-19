@@ -1,5 +1,17 @@
 :imagesdir: images
+//Estilo do Sumário
+:toc2: 
+//após os : insere o texto que deseja ser visível
+:toc-title: Sumário
 :figure-caption: Figura
+:numbered:
+:source-highlighter: highlightjs
+:icons: font
+:chapter-label:
+:doctype: book
+:lang: pt-BR
+
+
 
 = Curso AsciiDoc
 
